@@ -1,2 +1,3 @@
 # Hello-world
-simple pgm
+# simple pgm
+print("Hello world")
